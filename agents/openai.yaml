@@ -1,0 +1,4 @@
+interface:
+  display_name: "聊天有趣化"
+  short_description: "先接住情绪，再用画面、轻幽默和接话口改写恋爱聊天消息"
+  default_prompt: "使用 $make-chat-interesting 接住这条消息的情绪，并生成三个自然、有画面、方便继续聊的微信回复。"
